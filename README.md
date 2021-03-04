@@ -1,5 +1,5 @@
 # Machine-Learning
-Red neuronal que integra series de tiempo.
+Red neuronal que integra series de tiempo                                                          
 Inspirado en:                                                       
 https://machinelearningmastery.com/time-series-forecasting-supervised-learning/                                                 
 https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/                                                    
